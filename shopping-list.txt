@@ -1,4 +1,6 @@
 eggs
 milk
+butter
 bread
 cheese
+sausages

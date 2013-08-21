@@ -1,7 +1,7 @@
-milk
-butter
 bread
+butter
 cheese
-sausages
 ham
+milk
 potatoes
+sausages

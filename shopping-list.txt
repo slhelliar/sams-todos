@@ -3,3 +3,5 @@ butter
 bread
 cheese
 sausages
+ham
+potatoes

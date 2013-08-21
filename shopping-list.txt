@@ -1,6 +1,7 @@
 milk
 butter
 bread
+onions
 cheese
 sausages
 ham

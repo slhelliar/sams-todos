@@ -1,8 +1,8 @@
-milk
-butter
 bread
-onions
+butter
 cheese
-sausages
 ham
+milk
+onions
 potatoes
+sausages
